@@ -6,7 +6,7 @@ end
 
 def actor
   
-  actor = {"Dwayne "
+  actor = 
 
 end
 
